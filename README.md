@@ -75,3 +75,5 @@ This system combines **data analysis, visualization, sentiment mining, clusterin
 - **Customers** → to discover restaurants tailored to their preferences.
 - **Businesses** → to understand customer behavior, optimize pricing, and improve services.
 - **Data Scientists** → as a portfolio-ready project showcasing skills in **EDA, ML, NLP, and interactive dashboards**.
+
+### Dataset download Link:https://www.kaggle.com/datasets/rajeshrampure/zomato-dataset
